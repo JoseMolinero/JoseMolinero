@@ -29,7 +29,4 @@
 <a href = 'mailto:pepemolineromoles98@gmail.com'> <img width = '32px' align= 'center' src="https://github.com/JoseMolinero/JoseMolinero/blob/master/gmail.png"/></a>
 
   
-<br>
-<br>
--------------------
 &emsp;
