@@ -5,7 +5,7 @@
 -------------------
 &emsp;
 
-<picture> <img align="right" src="https://github.com/JoseMolinero/JoseMolinero/blob/master/aboutme.gif" width = 25px></picture> **About me**
+<h2> About me <img src = "https://github.com/JoseMolinero/JoseMolinero/blob/master/aboutme.gif" width = 32px> </h2>
 
 <br>
 
@@ -14,9 +14,10 @@
 - Currently working
 - Personal website and portfolio [link](https://josemolinero.com)
 
-<br><br>
+<br>
 
 <h2> Skills <img src = "https://github.com/JoseMolinero/JoseMolinero/blob/master/skills.webp" width = 32px> </h2>
+<a href="https://github.com/JoseMolinero" > <img width ='32px' src ='https://github.com/JoseMolinero/JoseMolinero/blob/master/aws.png'> </a>
 <a href="https://github.com/JoseMolinero" > <img width ='32px' src ='https://github.com/JoseMolinero/JoseMolinero/blob/master/javascript.svg'> </a>
 <a href= "https://github.com/JoseMolinero" > <img width ='32px' src ='https://github.com/JoseMolinero/JoseMolinero/blob/master/python.svg'> </a>
 <a href= "https://github.com/JoseMolinero" > <img width ='32px' src ='https://github.com/JoseMolinero/JoseMolinero/blob/master/c.png'> </a>
@@ -25,7 +26,7 @@
 
 <h2> Connect with me <img src='https://github.com/JoseMolinero/JoseMolinero/blob/master/contact.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/jose-molinero-moles/'> <img width = '32px' align= 'center' src="https://github.com/JoseMolinero/JoseMolinero/blob/master/in.svg"/></a> 
-<a href = 'mailto:pepemolineromoles98@gmail.com'> <img width = '32px' align= 'center' src="https://github.com/JoseMolinero/JoseMolinero/blob/master/mail.png"/></a>
+<a href = 'mailto:pepemolineromoles98@gmail.com'> <img width = '32px' align= 'center' src="https://github.com/JoseMolinero/JoseMolinero/blob/master/gmail.png"/></a>
 
   
 <br>
