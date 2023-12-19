@@ -12,7 +12,8 @@
 - A passionate of AWS
 - Programmer full time
 - Currently working
-- Personal website and portfolio [link](https://josemolinero.com)
+- Personal website [link](https://josemolinero.com)
+- And my portfolio [link](https://portfolio.josemolinero.com)
 
 <br>
 
